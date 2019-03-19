@@ -1,4 +1,7 @@
 # Stack Overflow: Tag Prediction
+
+<img src='images/pic1.jpg'/>
+
 <h1>1. Business Problem </h1>
 <h2> 1.1 Description </h2>
 <p style='font-size:18px'><b> Description </b></p>
